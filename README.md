@@ -6,7 +6,9 @@
 
 Orbital Mechanics Fundamentals and Example Implementation using the Orekit Python Wrapper 
 
+https://www.orekit.org/
 
+https://www.orekit.org/forge/projects/orekit-python-wrapper
 
 
 
