@@ -4,7 +4,11 @@
 
 *The MARCS Institute for Brain, Behaviour and Development, Biomedical Engineering and Neuromorphic Systems (BENS)* 
 
-Orbital Mechanics Example and Fundamentals using the Orekit Python Wrapper 
+Orbital Mechanics Fundamentals and Example Implementation using the Orekit Python Wrapper 
+
+
+
+
 
 
 Orekit python can be installed using:
