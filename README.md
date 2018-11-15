@@ -6,6 +6,13 @@
 
 Orbital Mechanics Fundamentals and Example Implementation using the Orekit Python Wrapper 
 
+Best rendered in jupyter nbviewer:
+
+https://nbviewer.jupyter.org/github/NicRalph213/Orekit_OrbitalMechanics_ipynb/blob/master/orbit_mech_notebook.ipynb
+
+
+Orekit References:
+
 https://www.orekit.org/
 
 https://www.orekit.org/forge/projects/orekit-python-wrapper
